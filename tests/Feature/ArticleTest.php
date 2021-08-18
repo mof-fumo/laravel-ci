@@ -44,3 +44,5 @@ class ArticleTest extends TestCase
         $this->assertFalse($result);
     }
 }
+
+// コメントアウト
